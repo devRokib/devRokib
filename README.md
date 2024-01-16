@@ -32,4 +32,4 @@ Hello, I'm Rakib Ahmed, a passionate Front-end Developer with a focus on creatin
 Thank you for your time and consideration.
 
 Sincerely, Rakib Ahmed
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Rakib-Ahmed) 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=devRokib) 
