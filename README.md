@@ -32,4 +32,9 @@ Hello, I'm Rakib Ahmed, a passionate Front-end Developer with a focus on creatin
 Thank you for your time and consideration.
 
 Sincerely, Rakib Ahmed
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devRokib)]
+![](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=devRokib) 
+![](https://komarev.com/ghpvc/?username=devRokib&color=green)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&count_private=true) 
+
