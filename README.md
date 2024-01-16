@@ -36,7 +36,7 @@ Sincerely, Rakib Ahmed <br>
 ![](https://github.com/anuraghazra/github-readme-stats)<br/>
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=devRokib)  <br/>
 ![](https://komarev.com/ghpvc/?username=devRokib&color=green) <br/>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devRokib&show_icons=true&count_private=true)
 
 
 
