@@ -33,10 +33,11 @@ Thank you for your time and consideration.
 
 Sincerely, Rakib Ahmed <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devRokib)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devRokib&show_icons=true&count_private=true)<br/>
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=devRokib)  <br/>
 ![](https://github.com/anuraghazra/github-readme-stats)<br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devRokib&show_icons=true&count_private=true)<br/>
+
 ![](https://komarev.com/ghpvc/?username=devRokib&color=green) <br/>
 
 
